@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  font-family: 'News Cycle', sans-serif;
+  font-size: 1.5rem;
+  background-color: #f7f7f7;
+}
+
+ul {
+  list-style: none;
+}
+h3,
+h4,
+h5 {
+  margin: 0 0 0 0;
+}
+
+h3{
+  color: #ce0f3d;
+}
+
+h5{
+  color: #004445;
+}
+
+a{
+  text-decoration: solid;
+  color: #ce0f3d;
+}
+
+.name {
+  color: #ce0f3d;
+  display: inline-block;
+  margin: 0;
+  top: 0;
+  font-size: 3.62rem;
+  text-align: left;
+  font-family: "Poiret One", cursive;
+}
+
+.disptn {
+  color: #ce0f3d;
+  font-size: 2rem;
+  font-family: "Poiret One", cursive;
+  font-weight: 1000;
+  margin: 0;
+  
+}
+
+.top-container {
+  padding-top: 10px;
+  position: relative;
+}
+.birds {
+  margin-bottom: 0;
+  position: absolute;
+  right: 0px;
+  width: 15%;
+}
+.sbirds {
+  width: 5%;
+  margin-bottom: 0;
+  position: absolute;
+  right: 0px;
+  top: 0;
+}
+
+.middle-container {
+  text-align: center;
+
+  margin-top: 15px;
+}
+
+.skill-row {
+  margin-top: 15px;
+  line-height: 1.5;
+}
+
+.profile-img {
+  width: 15%;
+  margin-bottom: 15px;
+  
+}
+
+.heading-margin {
+  margin-bottom: 15px;
+}
+
+.web {
+  width: 15%;
+  margin-bottom: 15px;
+}
+
+.hobbies {
+  width: 15%;
+  margin-bottom: 15px;
+}
+
+.bottom-container {
+  text-align: center;
+}
+
+.mountain {
+  
+  
+}
+
+.img-mountain{
+  width: 100%;
+}
